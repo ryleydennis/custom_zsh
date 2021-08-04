@@ -1,0 +1,2 @@
+Theme: Appearance > General > Theme > Minimal
+Tabs: Appearance > Tabs > Show tab bar even when there is only one tab
